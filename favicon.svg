@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="24" fill="#080B12"/>
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="none" stroke="#C8FF00" stroke-width="2" stroke-opacity="0.3"/>
+  <text x="50" y="56" dominant-baseline="central" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="38" fill="#C8FF00">ARR</text>
+</svg>
